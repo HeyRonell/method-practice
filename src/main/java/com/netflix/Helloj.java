@@ -1,4 +1,4 @@
-package com.netflix.Hello;
+package com.netflix;
 
 public class Helloj {
 
